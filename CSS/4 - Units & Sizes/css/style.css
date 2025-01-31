@@ -1,0 +1,34 @@
+ body{
+   background: #ffefd5;
+ }
+ 
+ main{
+    font-size: 25px;
+    font-family: Arial;
+ }
+
+ h1, h2{
+    color: #134261;
+    width: 50%;
+ }
+
+ h2{
+   border: 2px dashed #4b89dc;
+ }
+
+ b{
+    color: #4b89dc;
+ }
+
+ ul{
+    font-size: 21px;
+    font-style: italic;
+ }
+
+ .meaning{
+    font-family: Times;
+ }
+
+ .explanation{
+    font-size: 21px;
+ }
